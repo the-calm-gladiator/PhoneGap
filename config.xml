@@ -6,10 +6,10 @@
         id        = "com.phonegap.PhoneGap"
         version   = "1.0.0">
 
-    <name>Calm Galdiator</name>
+    <name>Check it out!</name>
 
     <description>
-        Hello World. sample application for Calm Gladiator that responds to the device ready event.
+        Hello World.Try this application.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
